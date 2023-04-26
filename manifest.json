@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.1",
+    "name": "Renatão é Rei",
+    "permissions": ["activeTab", "scripting"],
+    "description": "Lendas nunca morrem",
+    "author": "Não é um aluno",
+    "action": {
+        "default_icon": "skull.png",
+        "default_title": "secreto",
+        "default_popup": "index.html"
+    }
+}

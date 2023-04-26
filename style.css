@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: auto;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+p {
+    font-size: 16px;
+}
+button {
+    border-radius: 10px;
+    padding: 10px 10px;
+    border: none ;
+    margin-bottom: 20px;
+    background-color: rgb(197, 197, 197);
+    
+}
+
+button:hover{
+    transform: scale(1.1);
+    background-color: rgb(147, 146, 146);
+}
+
+.hidden {
+    display: none;
+}
