@@ -1,6 +1,8 @@
 # Descomplicando
 
-## Após o Git Clone 
+## Se essa ferramenta te ajudou adicione uma estrela aí não vai custar nadinha
+
+## Após o Git Clone
 - Vá em chrome://extensions/
 - Ative o Modo do desenvolvedor
 - Clique em carreegar sem compactação
