@@ -1,5 +1,4 @@
-# descomplicando
-Essa extensão não serve pra nada
+# Descomplicando
 
 ## Após o Git Clone 
 - vá em chrome://extensions/
