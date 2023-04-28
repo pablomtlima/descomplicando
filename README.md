@@ -22,8 +22,8 @@
 
 - Quando estiver na pagina da descomplica clique no icone da extensão
 
-![image](https://user-images.githubusercontent.com/78696750/235035779-b25900e5-ceed-444c-b0b8-30fb7d63a800.png)
-
 ![image](https://user-images.githubusercontent.com/78696750/235035853-57dc0bf0-8321-48b1-acc2-d9e05c279088.png)
+
+![image](https://user-images.githubusercontent.com/78696750/235035779-b25900e5-ceed-444c-b0b8-30fb7d63a800.png)
 
 ### Use com sabedoria
