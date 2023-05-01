@@ -2,6 +2,7 @@
 
 ## Se essa ferramenta te ajudou adicione uma estrela ⭐ aí não vai custar nadinha
 
+Compatível com chrome e derivados
 
 ![2023-04-27 (1)](https://user-images.githubusercontent.com/78696750/235035319-5735883f-a72c-44f5-a13c-62cffb9eb517.png)
 - Salve no seu pc e extraia a pasta
