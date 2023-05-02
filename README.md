@@ -2,6 +2,8 @@
 
 ## Se essa ferramenta te ajudou adicione uma estrela ⭐ aí não vai custar nadinha
 
+![GitHub Repo stars](https://img.shields.io/github/stars/pablomtlima/descomplicando?style=social)
+
 Compatível com chrome e derivados
 
 ![2023-04-27 (1)](https://user-images.githubusercontent.com/78696750/235035319-5735883f-a72c-44f5-a13c-62cffb9eb517.png)
